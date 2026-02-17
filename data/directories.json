@@ -1,0 +1,5240 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "domain_rating": 96,
+    "link_type": "Nofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "World's largest developer platform for version control, collaboration, and open-source software hosting and discovery."
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.reddit.com",
+    "domain_rating": 95,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "💻 Social Media",
+    "description": "The front page of the internet - diverse communities and discussions."
+  },
+  {
+    "name": "Sourceforge",
+    "url": "https://sourceforge.net",
+    "domain_rating": 92,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Platform for sharing and reviewing open-source and commercial software."
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "domain_rating": 92,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": "Leading technology media property, dedicated to obsessively profiling startups."
+  },
+  {
+    "name": "AI Tools by Neil Patel",
+    "url": "https://aitools.neilpatel.com",
+    "domain_rating": 91,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "Neil Patel's curated AI tools directory featuring top AI tools across categories like marketing, content, coding, and productivity."
+  },
+  {
+    "name": "G2",
+    "url": "https://www.g2.com",
+    "domain_rating": 91,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": "Platform for discovering and comparing software."
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://news.ycombinator.com",
+    "domain_rating": 91,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Y Combinator's community-driven tech news and startup discussion platform."
+  },
+  {
+    "name": "Product Hunt",
+    "url": "https://www.producthunt.com",
+    "domain_rating": 91,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "👥 Community",
+    "description": "The premier platform for discovering and launching new products daily."
+  },
+  {
+    "name": "Capterra",
+    "url": "https://www.capterra.com",
+    "domain_rating": 90,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": "A site for comparing business software."
+  },
+  {
+    "name": "DEV Community",
+    "url": "https://dev.to",
+    "domain_rating": 90,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "👥 Community",
+    "description": "Community - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Launched by Lovable",
+    "url": "https://launched.lovable.app",
+    "domain_rating": 88,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Showcase of projects built with Lovable platform."
+  },
+  {
+    "name": "AngelList",
+    "url": "https://angel.co",
+    "domain_rating": 87,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "The world's largest startup community for investors, entrepreneurs, and job seekers."
+  },
+  {
+    "name": "FinancesOnline",
+    "url": "https://financesonline.com",
+    "domain_rating": 82,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "⭐️ Review Directory",
+    "description": "B2B software review platform providing expert reviews, user ratings, and comparisons of business software and SaaS products."
+  },
+  {
+    "name": "StartupFA.me",
+    "url": "https://startupfa.me",
+    "domain_rating": 82,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Directory for finding and submitting startup tools and resources."
+  },
+  {
+    "name": "Dang AI",
+    "url": "https://dang.ai",
+    "domain_rating": 80,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Directory of AI tools and artificial intelligence resources."
+  },
+  {
+    "name": "Fazier",
+    "url": "https://fazier.com",
+    "domain_rating": 80,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Marketplace for SaaS products and startup tools."
+  },
+  {
+    "name": "Indie Hackers",
+    "url": "https://indiehackers.com",
+    "domain_rating": 80,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "👥 Community",
+    "description": "Community of developers who are sharing the strategies behind their companies."
+  },
+  {
+    "name": "ScamAdviser",
+    "url": "https://www.scamadviser.com",
+    "domain_rating": 80,
+    "link_type": "Nofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Website trust and safety checker helping users verify if a website is legitimate or potentially fraudulent."
+  },
+  {
+    "name": "StackShare",
+    "url": "https://stackshare.io",
+    "domain_rating": 80,
+    "link_type": "Nofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Developer-focused platform for discovering and comparing tech stacks, developer tools, and software infrastructure."
+  },
+  {
+    "name": "AlternativeTo",
+    "url": "https://alternativeto.net",
+    "domain_rating": 79,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": "Crowdsourced software recommendations and alternatives."
+  },
+  {
+    "name": "Brownbook",
+    "url": "https://www.brownbook.net",
+    "domain_rating": 79,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Twelve Tools",
+    "url": "https://twelve.tools",
+    "domain_rating": 79,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Curated collection of tools for entrepreneurs and makers."
+  },
+  {
+    "name": "Active Search Results",
+    "url": "https://www.activesearchresults.com",
+    "domain_rating": 78,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "💫 Other",
+    "description": "Others - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Turbo0",
+    "url": "https://turbo0.com/?via=launchdirectories",
+    "domain_rating": 78,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Fast-track platform for launching products quickly."
+  },
+  {
+    "name": "Webwiki",
+    "url": "https://www.webwiki.com",
+    "domain_rating": 78,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "There's An AI For That",
+    "url": "https://theresanaiforthat.com/?via=krzysztof",
+    "domain_rating": 77,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Comprehensive database of AI tools for every use case."
+  },
+  {
+    "name": "Callupcontact",
+    "url": "https://www.callupcontact.com",
+    "domain_rating": 76,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "SaaSHub",
+    "url": "https://www.saashub.com",
+    "domain_rating": 76,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": "Software alternatives and reviews platform."
+  },
+  {
+    "name": "Toolpilot",
+    "url": "https://www.toolpilot.ai",
+    "domain_rating": 76,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "AI tools discovery and directory"
+  },
+  {
+    "name": "Webrazzi",
+    "url": "http://webrazzi.com",
+    "domain_rating": 76,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Media - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Peerlist",
+    "url": "https://peerlist.io",
+    "domain_rating": 75,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Network and portfolio platform for tech professionals."
+  },
+  {
+    "name": "findly.tools",
+    "url": "https://findly.tools",
+    "domain_rating": 75,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "The best tools, all in one place."
+  },
+  {
+    "name": "BetaList",
+    "url": "https://betalist.com",
+    "domain_rating": 74,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Platform for discovering and getting early access to tomorrow's startups."
+  },
+  {
+    "name": "LaunchIgniter",
+    "url": "https://launchigniter.com",
+    "domain_rating": 74,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Launch Platform"
+  },
+  {
+    "name": "Alternative.me",
+    "url": "https://alternative.me",
+    "domain_rating": 73,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": "Find alternatives to popular software and services."
+  },
+  {
+    "name": "ExactSeek.com",
+    "url": "https://www.exactseek.com",
+    "domain_rating": 73,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "SoftwareWorld",
+    "url": "https://www.softwareworld.co",
+    "domain_rating": 73,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": "Find The Best Software & Services \nFor Your Business"
+  },
+  {
+    "name": "SubmitAiTools",
+    "url": "https://submitaitools.org",
+    "domain_rating": 73,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Simple platform to discover and share AI tools."
+  },
+  {
+    "name": "Uneed",
+    "url": "https://www.uneed.best?atp=DYqKOG",
+    "domain_rating": 73,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Curated directory of the best tools for entrepreneurs."
+  },
+  {
+    "name": "neeed.directory",
+    "url": "https://neeed.directory",
+    "domain_rating": 73,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Tools Directory"
+  },
+  {
+    "name": "SaaSWorthy",
+    "url": "https://www.saasworthy.com",
+    "domain_rating": 72,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "⭐️ Review Directory",
+    "description": "Software discovery and review platform providing data-driven SaaS product comparisons, ratings, and user reviews."
+  },
+  {
+    "name": "Toolify.ai",
+    "url": "https://www.toolify.ai",
+    "domain_rating": 72,
+    "link_type": "Dofollow",
+    "pricing": "Paid",
+    "category": "🤖 AI Directory",
+    "description": "Comprehensive AI tools directory with 20,000+ tools, revenue rankings, and traffic analytics for discovering AI solutions."
+  },
+  {
+    "name": "magicbox.tools",
+    "url": "https://magicbox.tools",
+    "domain_rating": 72,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Featuring over 20,000 awesome AI tools"
+  },
+  {
+    "name": "HotVsNot.Com",
+    "url": "https://www.hotvsnot.com",
+    "domain_rating": 71,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "PeerPush",
+    "url": "https://peerpush.net",
+    "domain_rating": 71,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "A community-driven startup directory with high domain rating that rewards you for spotlighting the next big thing while showcasing your own growth journey."
+  },
+  {
+    "name": "TinyLaunch",
+    "url": "https://www.tinylaunch.com",
+    "domain_rating": 71,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Product launch platform with visibility"
+  },
+  {
+    "name": "SiteLike",
+    "url": "https://www.sitelike.org",
+    "domain_rating": 70,
+    "link_type": "Nofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Website similarity finder that helps users discover alternative and similar websites to any given domain."
+  },
+  {
+    "name": "Futurepedia",
+    "url": "https://www.futurepedia.io",
+    "domain_rating": 69,
+    "link_type": "Nofollow",
+    "pricing": "Paid",
+    "category": "🤖 AI Directory",
+    "description": "One of the largest AI tools directories with comprehensive guides, community engagement, and a weekly newsletter for AI enthusiasts."
+  },
+  {
+    "name": "SideProjectors",
+    "url": "https://www.sideprojectors.com",
+    "domain_rating": 69,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Community for sharing and discovering side projects."
+  },
+  {
+    "name": "Future Tools",
+    "url": "https://www.futuretools.io",
+    "domain_rating": 68,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Directory of AI tools and future technology."
+  },
+  {
+    "name": "AI Tools Directory",
+    "url": "https://aitoolsdirectory.com",
+    "domain_rating": 67,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AiTools",
+    "url": "https://aitools.inc",
+    "domain_rating": 67,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Handy directory for finding AI tools"
+  },
+  {
+    "name": "toolsfine",
+    "url": "https://toolsfine.com",
+    "domain_rating": 67,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "better tools, better work"
+  },
+  {
+    "name": "aiwith.me",
+    "url": "https://aiwith.me",
+    "domain_rating": 66,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Discover the latest and best AI tools"
+  },
+  {
+    "name": "Startup Stash",
+    "url": "https://startupstash.com",
+    "domain_rating": 65,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Curated directory of resources and tools for startups."
+  },
+  {
+    "name": "Viesearch",
+    "url": "https://www.viesearch.com",
+    "domain_rating": 65,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "Human-edited web directory offering categorized website listings with editorial reviews and quality-vetted submissions."
+  },
+  {
+    "name": "Addon Biz",
+    "url": "https://www.addon.biz",
+    "domain_rating": 64,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Sprout24",
+    "url": "https://sprout24.com",
+    "domain_rating": 64,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Startup Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Submission Web Directory",
+    "url": "https://www.submissionwebdirectory.com",
+    "domain_rating": 64,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Aura++",
+    "url": "https://auraplusplus.com",
+    "domain_rating": 62,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Increase Your Online Aura"
+  },
+  {
+    "name": "High Rank Directory",
+    "url": "https://www.highrankdirectory.com",
+    "domain_rating": 61,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AgentHunter",
+    "url": "https://www.agenthunter.io",
+    "domain_rating": 60,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Best AI Agents in One Place"
+  },
+  {
+    "name": "Open Launch",
+    "url": "https://open-launch.com",
+    "domain_rating": 60,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Open platform for product launches and feedback."
+  },
+  {
+    "name": "DevHunt",
+    "url": "https://devhunt.org",
+    "domain_rating": 59,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Product Hunt for developers - showcase developer tools."
+  },
+  {
+    "name": "Indie Deals",
+    "url": "https://www.indie.deals",
+    "domain_rating": 59,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Deals and discounts for indie makers and startups."
+  },
+  {
+    "name": "Pitchwall",
+    "url": "https://pitchwall.co",
+    "domain_rating": 59,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Premium startup showcase"
+  },
+  {
+    "name": "Sites Directory",
+    "url": "https://dir.org.vn",
+    "domain_rating": 59,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "acidtools.com",
+    "url": "https://acidtools.com",
+    "domain_rating": 59,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Directory of productivity & AI tools."
+  },
+  {
+    "name": "startupfa.st",
+    "url": "https://www.startupfa.st",
+    "domain_rating": 59,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Startup directory"
+  },
+  {
+    "name": "MicroLaunch",
+    "url": "https://microlaunch.net",
+    "domain_rating": 58,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Platform for launching and discovering micro startups."
+  },
+  {
+    "name": "Firsto",
+    "url": "https://firsto.co",
+    "domain_rating": 57,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Firsto is a product‑launch platform tailored for indie makers, developers, and startups. It offers a fair, visibility‑first environment where every submitted project gains exposure, unlike curated or "
+  },
+  {
+    "name": "Super Launch",
+    "url": "https://www.superlaun.ch",
+    "domain_rating": 57,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "A product launch platform cum directory."
+  },
+  {
+    "name": "Directory Web Promotion",
+    "url": "https://www.directorywebpromotion.com",
+    "domain_rating": 56,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "IdeaKiln",
+    "url": "https://ideakiln.com",
+    "domain_rating": 56,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "A community-driven directory for early-stage startup ideas, prototypes, and MVPs.\n"
+  },
+  {
+    "name": "NextGen Tools",
+    "url": "https://www.nxgntools.com",
+    "domain_rating": 56,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Discover the Best AI Tools & SaaS Products"
+  },
+  {
+    "name": "Site Promotion Directory",
+    "url": "https://www.sitepromotion.directory",
+    "domain_rating": 56,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Startups Lab",
+    "url": "https://startupslab.site",
+    "domain_rating": 56,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Showcase your startup"
+  },
+  {
+    "name": "Weboworld",
+    "url": "https://www.weboworld.com",
+    "domain_rating": 56,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "DealMirror",
+    "url": "https://dealmirror.com",
+    "domain_rating": 55,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Lifetime software deals marketplace offering discounted SaaS products, digital tools, and one-time purchase business software."
+  },
+  {
+    "name": "TrustMRR",
+    "url": "https://trustmrr.com",
+    "domain_rating": 54,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "The database of verified startup revenues"
+  },
+  {
+    "name": "Ben's Bites",
+    "url": "https://bensbites.com",
+    "domain_rating": 53,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "StartupTrusted",
+    "url": "https://startuptrusted.com",
+    "domain_rating": 53,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Discover trusted startups and submit your own to get discovered."
+  },
+  {
+    "name": "TinyLaunch",
+    "url": "https://www.tinylaun.ch",
+    "domain_rating": 52,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Indie maker launch platform where creators share and discover small projects, tools, and side projects with a supportive community."
+  },
+  {
+    "name": "FoundrList",
+    "url": "https://foundrlist.com",
+    "domain_rating": 51,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "SaaS and startup directory"
+  },
+  {
+    "name": "Open Alternative",
+    "url": "https://openalternative.co",
+    "domain_rating": 51,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Open source alternatives to popular software."
+  },
+  {
+    "name": "Shipybara",
+    "url": "https://shipybara.com",
+    "domain_rating": 51,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Launch your startup, get seen by early adopters\n"
+  },
+  {
+    "name": "10015 Tools",
+    "url": "https://10015.io",
+    "domain_rating": 50,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Startup Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AI Tech Viral",
+    "url": "https://aitechviral.com",
+    "domain_rating": 50,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "AI Tech Viral is a simple directory for sharing AI tools"
+  },
+  {
+    "name": "Launching Next",
+    "url": "https://www.launchingnext.com",
+    "domain_rating": 50,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Platform for announcing upcoming product launches."
+  },
+  {
+    "name": "MakerThrive",
+    "url": "https://makerthrive.com",
+    "domain_rating": 50,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "👥 Community",
+    "description": "Community and resources for makers and creators."
+  },
+  {
+    "name": "Openhunts",
+    "url": "https://openhunts.com",
+    "domain_rating": 50,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Launch and hunt products openly."
+  },
+  {
+    "name": "Tiny Startups",
+    "url": "https://tinystartups.com",
+    "domain_rating": 50,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Community for small startups and indie hackers."
+  },
+  {
+    "name": "Unite List",
+    "url": "https://unitelist.com",
+    "domain_rating": 50,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Unite List is a straightforward directory where makers and SaaS creators can easily find and add useful digital tools."
+  },
+  {
+    "name": "AppaList",
+    "url": "https://appalist.com",
+    "domain_rating": 48,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Explore software solutions that take your productivity to the next level"
+  },
+  {
+    "name": "BAI.tools",
+    "url": "https://bai.tools",
+    "domain_rating": 48,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "SaasHunt",
+    "url": "https://saashunt.best",
+    "domain_rating": 48,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Product Hunt Alternative for SaaS products"
+  },
+  {
+    "name": "Promote Project",
+    "url": "https://www.promoteproject.com",
+    "domain_rating": 47,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Platform for promoting and marketing your projects."
+  },
+  {
+    "name": "AI Library",
+    "url": "https://library.phygital.plus",
+    "domain_rating": 46,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AiTools",
+    "url": "https://aitools.fyi",
+    "domain_rating": 46,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Find Best AI Tools That Make Your Life Easy!"
+  },
+  {
+    "name": "Huzzler",
+    "url": "https://huzzler.so",
+    "domain_rating": 46,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Platform for discovering and promoting new startup projects."
+  },
+  {
+    "name": "SoloPush",
+    "url": "https://solopush.com",
+    "domain_rating": 46,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Platform for solo entrepreneurs to promote their projects."
+  },
+  {
+    "name": "A1 Bookmarks",
+    "url": "https://www.a1bookmarks.com",
+    "domain_rating": 45,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "EliteAI Tools",
+    "url": "https://eliteai.tools",
+    "domain_rating": 45,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "Premium AI tools directory showcasing elite AI-powered products with curated reviews, categories, and rankings."
+  },
+  {
+    "name": "Launch",
+    "url": "https://trylaunch.ai",
+    "domain_rating": 45,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "The best new AI products. Every day."
+  },
+  {
+    "name": "Launch Vault",
+    "url": "https://www.launchvault.dev",
+    "domain_rating": 45,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Product launch platform for startups. Free submissions with high-quality dofollow backlinks and community engagement."
+  },
+  {
+    "name": "Navs Site",
+    "url": "https://navs.site",
+    "domain_rating": 45,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Toolfio",
+    "url": "https://toolfio.com",
+    "domain_rating": 45,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "The ultimate hub for finding and showcasing SaaS products."
+  },
+  {
+    "name": "ProductBurst",
+    "url": "https://productburst.com",
+    "domain_rating": 44,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Daily featured products and startup showcases."
+  },
+  {
+    "name": "We Like Tools",
+    "url": "https://weliketools.com",
+    "domain_rating": 44,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "We Like Tools celebrates the best productivity solutions. Discover tools that we genuinely recommend and love.\t"
+  },
+  {
+    "name": "AI Agents Directory",
+    "url": "https://aiagentsdirectory.com",
+    "domain_rating": 43,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AI Startups",
+    "url": "https://aistartups.net",
+    "domain_rating": 43,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "T5",
+    "url": "https://t5.dev",
+    "domain_rating": 43,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Startup Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "startuplist.ing",
+    "url": "https://startuplist.ing",
+    "domain_rating": 43,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "All-in-one platform for builders"
+  },
+  {
+    "name": "SaaSpo",
+    "url": "https://saaspo.com",
+    "domain_rating": 42,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "SaaS discovery platform showcasing curated software products with detailed reviews, comparisons, and design inspiration."
+  },
+  {
+    "name": "Awesome Tools",
+    "url": "https://awesome.tools",
+    "domain_rating": 41,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Best Awesome Tools for Startups"
+  },
+  {
+    "name": "Micro SaaS Examples",
+    "url": "https://www.microsaasexamples.com",
+    "domain_rating": 41,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Explore the best micro saas ideas from the internet."
+  },
+  {
+    "name": "Victrays",
+    "url": "https://victrays.com",
+    "domain_rating": 40,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "AI tools directory and tech resource hub featuring curated lists of AI-powered tools across multiple categories."
+  },
+  {
+    "name": "BestofAI",
+    "url": "https://bestofai.com",
+    "domain_rating": 39,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "IndieHub",
+    "url": "https://indiehub.best",
+    "domain_rating": 39,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "All-in-One Directory for Indie Makers"
+  },
+  {
+    "name": "StartupBase",
+    "url": "https://startupbase.io",
+    "domain_rating": 39,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Database and directory of startup companies."
+  },
+  {
+    "name": "Bulletin",
+    "url": "https://bulletin.so",
+    "domain_rating": 38,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "A front page for early products. No upvotes. No hype."
+  },
+  {
+    "name": "CTRL ALT",
+    "url": "https://ctrlalt.cc",
+    "domain_rating": 38,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Launchpad - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "SaaSBaba",
+    "url": "https://saasbaba.com",
+    "domain_rating": 38,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "SaaS reviews and deals platform offering in-depth software reviews, lifetime deals, and curated SaaS product recommendations."
+  },
+  {
+    "name": "Startup Buffer",
+    "url": "https://startupbuffer.com",
+    "domain_rating": 38,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🗞 Press Coverage",
+    "description": "Startup Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "The Rundown",
+    "url": "https://www.therundown.ai",
+    "domain_rating": 38,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AI Tools Marketer",
+    "url": "https://aitoolsmarketer.com",
+    "domain_rating": 37,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "RankYourAI",
+    "url": "https://rankyourai.com",
+    "domain_rating": 36,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Ranking and review platform for AI tools."
+  },
+  {
+    "name": "Saaspa.ge",
+    "url": "https://www.saaspa.ge",
+    "domain_rating": 36,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Saas Products Directory"
+  },
+  {
+    "name": "AI Findy",
+    "url": "https://aifindy.com",
+    "domain_rating": 35,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "AI tools discovery platform helping users find the best AI tools sorted by category, use case, and popularity."
+  },
+  {
+    "name": "Best of Web",
+    "url": "https://www.bestofweb.site",
+    "domain_rating": 35,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "All-in-One Growth Platform"
+  },
+  {
+    "name": "HuntScreens.com",
+    "url": "https://huntscreens.com",
+    "domain_rating": 35,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Startup Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "IndieHackerStacks",
+    "url": "https://indiehackerstacks.com",
+    "domain_rating": 35,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Discover the best tools from fellow indie hackers to build your product."
+  },
+  {
+    "name": "ShipYard HQ",
+    "url": "https://shipyardhq.dev",
+    "domain_rating": 35,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Shipyard shows what builders are actually clicking on."
+  },
+  {
+    "name": "TinyLaunchpad",
+    "url": "https://tinylaunchpad.com",
+    "domain_rating": 35,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Fresh products and startups launched every Monday."
+  },
+  {
+    "name": "rankinpublic.xyz",
+    "url": "https://rankinpublic.xyz",
+    "domain_rating": 35,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Live product rankings"
+  },
+  {
+    "name": "toolfolio",
+    "url": "https://toolfolio.io",
+    "domain_rating": 35,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "All the tools & resources you need, in one place."
+  },
+  {
+    "name": "1000.tools",
+    "url": "https://1000.tools",
+    "domain_rating": 34,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "An exclusive list of the 1000 best tools.\nCarefully vetted and maintained by humans."
+  },
+  {
+    "name": "Proofstories",
+    "url": "https://proofstories.io/directory",
+    "domain_rating": 34,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "A collection of tools sharing how they won their first customers."
+  },
+  {
+    "name": "Startuplister",
+    "url": "https://startuplister.com",
+    "domain_rating": 34,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Startup Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "EuroAlternative",
+    "url": "https://euroalternative.co",
+    "domain_rating": 33,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Discover European Alternatives to Big Tech Companies"
+  },
+  {
+    "name": "Spiff.store",
+    "url": "https://spiff.store",
+    "domain_rating": 33,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Startups.fm",
+    "url": "https://startups.fm",
+    "domain_rating": 33,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Podcast and community focused on startup stories."
+  },
+  {
+    "name": "Directory-Free",
+    "url": "https://www.directory-free.com",
+    "domain_rating": 32,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "LLM Relevance",
+    "url": "https://llmrelevance.com",
+    "domain_rating": 32,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Curated AI SEO tools, playbooks, and guidance built for small businesses that need to show up in LLMs"
+  },
+  {
+    "name": "Once.tools",
+    "url": "https://once.tools",
+    "domain_rating": 32,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Curated directory of one-time purchase software tools and lifetime deal alternatives to subscription-based SaaS products."
+  },
+  {
+    "name": "ToolHub",
+    "url": "https://toolhub.me",
+    "domain_rating": 32,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Central hub for discovering useful tools and apps."
+  },
+  {
+    "name": "FindYourSaaS",
+    "url": "https://www.findyoursaas.com",
+    "domain_rating": 31,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Discover and compare SaaS products for your business."
+  },
+  {
+    "name": "AI Listing",
+    "url": "https://ailisting.ai",
+    "domain_rating": 30,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "AI tools directory and listing platform for submitting and discovering AI-powered tools and SaaS products."
+  },
+  {
+    "name": "AI Tool Details",
+    "url": "https://aitooldetails.com",
+    "domain_rating": 30,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "ConfettiSaaS",
+    "url": "https://confettisaas.com",
+    "domain_rating": 30,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "ConfettiSaaS.com is a platform for showcasing and discovering confetti-powered apps."
+  },
+  {
+    "name": "Make.rs",
+    "url": "https://make.rs",
+    "domain_rating": 30,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "👥 Community",
+    "description": "Community - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "OpenFuture",
+    "url": "https://openfuture.ai",
+    "domain_rating": 30,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "PromptZone",
+    "url": "https://promptzone.com",
+    "domain_rating": 30,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "👥 Community",
+    "description": "Community - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Resource.fyi",
+    "url": "https://resource.fyi",
+    "domain_rating": 30,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Collection of useful resources for entrepreneurs."
+  },
+  {
+    "name": "WhatTheAI",
+    "url": "https://whattheai.tech",
+    "domain_rating": 30,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "AI tools aggregator helping users discover and compare AI-powered tools across various categories and use cases."
+  },
+  {
+    "name": "AI Navbar",
+    "url": "https://ainavbar.com",
+    "domain_rating": 29,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AI TOOL GURU",
+    "url": "https://aitoolguru.com",
+    "domain_rating": 29,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Ant Directory",
+    "url": "https://antdirectory.com",
+    "domain_rating": 29,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "💻 Software Directory",
+    "description": "Software Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Daily Pings",
+    "url": "https://dailypings.com",
+    "domain_rating": 29,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Daily digest of new product launches and startup news."
+  },
+  {
+    "name": "SubmitHunt",
+    "url": "https://www.submithunt.com",
+    "domain_rating": 29,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Visual showcase for startups"
+  },
+  {
+    "name": "Text Link Directory",
+    "url": "https://www.textlinkdirectory.com",
+    "domain_rating": 29,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AffordHunt",
+    "url": "https://affordhunt.com",
+    "domain_rating": 28,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "FiveTaco",
+    "url": "https://fivetaco.com",
+    "domain_rating": 28,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Startup and product launch directory for indie makers to showcase their projects and gain visibility among early adopters."
+  },
+  {
+    "name": "HUNT0",
+    "url": "https://hunt0.com",
+    "domain_rating": 28,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "LaunchPad - Ship Early. Hunt Early."
+  },
+  {
+    "name": "ItsLaunched",
+    "url": "https://itslaunched.com",
+    "domain_rating": 28,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "👥 Community",
+    "description": "Community - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Made with Lovable",
+    "url": "https://madewithlovable.com",
+    "domain_rating": 28,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Showcase of websites and apps built with Lovable."
+  },
+  {
+    "name": "NoteableAI",
+    "url": "https://noteableai.com",
+    "domain_rating": 28,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "AI tools discovery platform featuring curated and categorized AI tools with reviews and detailed feature breakdowns."
+  },
+  {
+    "name": "OneMillionDirectory",
+    "url": "https://onemilliondirectory.com",
+    "domain_rating": 28,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "📂 General Directory",
+    "description": "General Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Stellar Launch",
+    "url": "https://stellarlaunch.org",
+    "domain_rating": 28,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Where products keep getting discovered after launch day."
+  },
+  {
+    "name": "AI Tools List",
+    "url": "https://aitoolslist.io",
+    "domain_rating": 27,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AIxuanfeng",
+    "url": "https://www.aixuanfeng.com",
+    "domain_rating": 27,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🌍 International",
+    "description": "International - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "BuildVoyage",
+    "url": "https://buildvoyage.com",
+    "domain_rating": 27,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Discover and track real micro‑SaaS journeys"
+  },
+  {
+    "name": "Justgotfound",
+    "url": "https://justgotfound.com",
+    "domain_rating": 27,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Discover Amazing Products"
+  },
+  {
+    "name": "Startups.fyi",
+    "url": "https://startups.fyi",
+    "domain_rating": 27,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Information and resources for startup founders."
+  },
+  {
+    "name": "ailib.ru",
+    "url": "https://ailib.ru",
+    "domain_rating": 27,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🌍 International",
+    "description": "International - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "AwesomeIndie",
+    "url": "https://awesomeindie.com",
+    "domain_rating": 26,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Awesome Indie is a curated platform for discovering indie products, side projects, and micro-startups"
+  },
+  {
+    "name": "NavFolders",
+    "url": "https://navfolders.com",
+    "domain_rating": 26,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "💻 Software Directory",
+    "description": "Software Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "One Million Screenshots",
+    "url": "https://onemillionscreenshots.com",
+    "domain_rating": 26,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "💫 Other",
+    "description": "Others - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Saassy Board",
+    "url": "https://saassy-board.com",
+    "domain_rating": 26,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Launch SaaS, earn rewards, fight hunger"
+  },
+  {
+    "name": "SideProjects",
+    "url": "https://sideprojects.net",
+    "domain_rating": 26,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "👥 Community",
+    "description": "Community - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "ai.dreamthere.cn",
+    "url": "https://ai.dreamthere.cn",
+    "domain_rating": 26,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "hot100",
+    "url": "https://www.hot100.ai",
+    "domain_rating": 26,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "The weekly chart for indie AI projects and Vibe Coders."
+  },
+  {
+    "name": "ANYFP",
+    "url": "https://anyfp.com",
+    "domain_rating": 25,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "See What New AI",
+    "url": "https://www.seewhatnewai.com",
+    "domain_rating": 25,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Platform for discovering newly launched AI tools and staying updated on the latest AI product releases."
+  },
+  {
+    "name": "ToolScout AI",
+    "url": "https://toolscout.ai",
+    "domain_rating": 25,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "AI-powered tool discovery platform helping users find the right AI tools for their specific needs and workflows."
+  },
+  {
+    "name": "stashli.st",
+    "url": "https://stashli.st",
+    "domain_rating": 24,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "💫 Other",
+    "description": "Others - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Kyi AI Directory",
+    "url": "https://kyi.ai",
+    "domain_rating": 23,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Tip Season",
+    "url": "https://tipseason.com",
+    "domain_rating": 23,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Top10",
+    "url": "https://top10.now",
+    "domain_rating": 23,
+    "link_type": "Nofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Top 10 lists of tools and services in various categories."
+  },
+  {
+    "name": "600.tools",
+    "url": "https://600.tools",
+    "domain_rating": 22,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Curated collection of useful online tools and SaaS products organized by category for easy discovery and comparison."
+  },
+  {
+    "name": "AI Depot",
+    "url": "https://aidepot.co",
+    "domain_rating": 22,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "WhatIsAITools",
+    "url": "https://whatisaitools.com",
+    "domain_rating": 22,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "AI tools directory providing detailed descriptions, reviews, and categorized listings of AI-powered software and services."
+  },
+  {
+    "name": "Expify",
+    "url": "https://expify.ai",
+    "domain_rating": 21,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "Lachief.io",
+    "url": "https://lachief.io",
+    "domain_rating": 21,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "MarketingDB",
+    "url": "https://marketingdb.live",
+    "domain_rating": 21,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Get free dofollow backlinks from MarketingDB"
+  },
+  {
+    "name": "madewithbolt",
+    "url": "https://madewithbolt.com",
+    "domain_rating": 21,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "A collection of apps and websites made with Bolt.new"
+  },
+  {
+    "name": "FeaturedTool",
+    "url": "https://featuredtool.com",
+    "domain_rating": 20,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Tool discovery directory featuring hand-picked digital tools, software, and AI products with detailed reviews."
+  },
+  {
+    "name": "NewAIForYou",
+    "url": "https://newaiforyou.com",
+    "domain_rating": 20,
+    "link_type": "Dofollow",
+    "pricing": "Freemium",
+    "category": "🤖 AI Directory",
+    "description": "AI Directory - Listed on SubmitSaaS directory"
+  },
+  {
+    "name": "ProjectHunt.me",
+    "url": "https://projecthunt.me",
+    "domain_rating": 20,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Project showcase platform for developers and makers to share side projects, open-source tools, and indie products."
+  },
+  {
+    "name": "Toollist",
+    "url": "https://toollist.ai",
+    "domain_rating": 19,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Directory of Artificial Intelligence Tools"
+  },
+  {
+    "name": "Dirs.cc",
+    "url": "https://dirs.cc",
+    "domain_rating": 18,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Curated startup and tool directory helping creators get discovered through categorized listings and community features."
+  },
+  {
+    "name": "SaaSBison",
+    "url": "https://saasbison.com",
+    "domain_rating": 16,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Find the best software and alternatives in minutes with filters and reviews."
+  },
+  {
+    "name": "ScoutForge",
+    "url": "https://scoutforge.net",
+    "domain_rating": 15,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Startup discovery platform helping founders showcase their products and connect with potential users and investors."
+  },
+  {
+    "name": "Launch Vibe",
+    "url": "https://www.launchvibe.app",
+    "domain_rating": 12,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Launch to 1000s of founders"
+  },
+  {
+    "name": "startuups",
+    "url": "https://startuups.com",
+    "domain_rating": 12,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Launch platform for SaaS products"
+  },
+  {
+    "name": "Sumodir",
+    "url": "https://sumodir.com",
+    "domain_rating": 7,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "The business directory for startups, SaaS companies, local businesses, and apps. "
+  },
+  {
+    "name": "Versily",
+    "url": "https://versily.com",
+    "domain_rating": 1,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "The curated launchpad for SaaS and AI startups."
+  },
+  {
+    "name": "launch.cab",
+    "url": "https://launch.cab",
+    "domain_rating": 1,
+    "link_type": "Dofollow",
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": "Helping indie founders get discovered and track trends."
+  },
+  {
+    "name": "10 Words",
+    "url": "https://10words.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "360Quadrants",
+    "url": "https://360quadrants.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "9 Sites",
+    "url": "https://www.9sites.net/addurl.php",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "AI Repo",
+    "url": "https://airepo.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "AIx Collection",
+    "url": "https://aixcollection.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "ARS Technica",
+    "url": "https://arstechnica.com/contact-us",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Addictive Tips",
+    "url": "https://www.addictivetips.com/tip-us",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Agni",
+    "url": "https://office.angi.com/app/join/registratio",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "AiTool.ai",
+    "url": "https://aitool.ai",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Airtable Marketplace",
+    "url": "https://airtable.com/marketplace",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🧩 SaaS Marketplace",
+    "description": null
+  },
+  {
+    "name": "Akita SaaS Directory",
+    "url": "https://akitaapp.com/directory",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🧩 SaaS Marketplace",
+    "description": null
+  },
+  {
+    "name": "All Startups Info",
+    "url": "https://www.allstartups.info",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "All That SaaS",
+    "url": "https://allthatsaas.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "All Top",
+    "url": "https://alltop.com/feed",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "All Top Startups",
+    "url": "https://alltopstartups.com/submit-st",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Alpha Digits",
+    "url": "https://alphadigits.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Alternatives.co",
+    "url": "https://alternatives.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "American Inno",
+    "url": "https://www.americaninno.com/post-a-star",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "American Startups",
+    "url": "https://americanstartups.com/share-your-s",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Amfibi",
+    "url": "http://www.amfibi.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Android Apps Review",
+    "url": "https://www.androidappsreview.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Android Authority",
+    "url": "https://www.androidauthority.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "App Listo",
+    "url": "https://appslisto.com/submit-your-app",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "App Rater",
+    "url": "https://apprater.net/add",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "App Review Central",
+    "url": "http://www.appreviewcentral.net/app-sub",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "App Spy",
+    "url": "https://www.appspy.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "App Sumo",
+    "url": "https://appsumo.com/sell",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "💫 Other",
+    "description": null
+  },
+  {
+    "name": "AppAgg",
+    "url": "https://appagg.com/?hl=en",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "AppExchange",
+    "url": "https://appexchange.salesforce.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🧩 SaaS Marketplace",
+    "description": null
+  },
+  {
+    "name": "Apple Insider",
+    "url": "https://appleinsider.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Appoid",
+    "url": "https://appiod.com/submit-app-for-revien",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Appolicious",
+    "url": "https://www.appolicious.com/contact-us",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Apps 400",
+    "url": "https://apps400.com/submit-your-application-fol",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Apps Mamma",
+    "url": "http://appsmamma.com/submit-your-app",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Apps Mirror",
+    "url": "https://appsmirror.com/submit-your-app-fol",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Apps Thunder",
+    "url": "https://appsthunder.com/submit-your-app",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Apps Zoom",
+    "url": "http://appszoom.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Appsolite",
+    "url": "https://appsolite.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Appvita",
+    "url": "https://www.appvita.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Appy Smarts",
+    "url": "https://www.appysmarts.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Artic Startups",
+    "url": "https://arcticstartup.com/become-a",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Ask Your Android",
+    "url": "http://askyourandroid.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Astro Growth",
+    "url": "https://www.astrogrowth.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Being Guru",
+    "url": "https://www.beingguru.com/submit-startu",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Best App for Kids",
+    "url": "https://www.bestappsforkids.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Beta Bound",
+    "url": "https://betabound.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "BetaPage",
+    "url": "https://betapage.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Betakit",
+    "url": "https://betakit.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Better Buys",
+    "url": "https://betterbuys.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Big Startups",
+    "url": "https://biqstartups.co/overview/sub",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Bloombuzz",
+    "url": "https://bloombuzz.in/joinus",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Boing Boing",
+    "url": "https://boingboing.net",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Bootstrappers",
+    "url": "https://bootstrappers.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Breakout List",
+    "url": "https://breakoutlist.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "BufferApps",
+    "url": "https://bufferapps.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Built In",
+    "url": "https://builtin.com/expert-contributors",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Business Insider",
+    "url": "https://www.businessinsider.in/contributors",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Business Software",
+    "url": "https://www.business-software.com/add-",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Business to Community",
+    "url": "https://www.business2community.com/;",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Buzzfeed News",
+    "url": "https://www.buzzfeednews.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "CNET",
+    "url": "https://www.cnet.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Cabinet",
+    "url": "https://www.cabinetm.com/information/m",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Change Log",
+    "url": "http://changelog.com/sponsor/pricing",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Cipinet",
+    "url": "https://www.cipinet.com/suggest.php?ac",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Cloudwards",
+    "url": "https://cloudwards.net",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Clutch",
+    "url": "https://clutch.co/review",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "CoFounders Lab",
+    "url": "https://cofounderslab.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Coin Scribble",
+    "url": "http://coinscribble.com/contact",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Coindoo",
+    "url": "https://coindoo.com/submit-press-releast",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Collaborizm",
+    "url": "https://www.collaborizm.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Compare Software",
+    "url": "https://www.comparasoftware.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Coop Commerce",
+    "url": "https://www.coopcommerce.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Crazy About Startups",
+    "url": "https://crazyaboutstartups.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Creator Supply",
+    "url": "https://creator.supply",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Crowd Reviews",
+    "url": "https://www.crowdreviews.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Croz Desk",
+    "url": "https://Crozdesk.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Crunchbase",
+    "url": "https://www.crunchbase.com/home",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Cuspera e27",
+    "url": "https://www.cuspera.com/vendors",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Designer News",
+    "url": "https://designernews.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Dev Pages",
+    "url": "https://devpages.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Dev Post",
+    "url": "https://devpost.com/software",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Dev Resources",
+    "url": "https://devresourc.es",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Digg",
+    "url": "https://digg.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Digital Trends",
+    "url": "https://www.digitaltrends.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Discover CRM",
+    "url": "https://discovercrm.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Discover Cloud",
+    "url": "https://www.discovercloud.com/become-",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Discover Our Town",
+    "url": "http://www.discoverourtown.com/add",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "EBool",
+    "url": "https://www.ebool.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "EU-Startups",
+    "url": "https://www.eu-startups.com/directory/?'",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Efficient App",
+    "url": "https://efficient.app",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Elpha",
+    "url": "https://elpha.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Emoji Launch",
+    "url": "https://emojilaunch.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "EnGadget",
+    "url": "https://www.engadget.com/about/advertist",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "F6S",
+    "url": "https://www.f6s.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Fark",
+    "url": "https://www.fark.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Fast Company",
+    "url": "https://www.fastcompany.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Featured Customers",
+    "url": "https://www.featuredcustomers.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Feed My Startup",
+    "url": "http://feedmystartup.com/submit-your-st",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Feedough",
+    "url": "https://www.feedough.com/submit-'",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Find Cool Tools",
+    "url": "https://findcool.tools",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Find SEO Tools",
+    "url": "https://findseotools.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "FindStack",
+    "url": "https://findstack.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Finding Startups",
+    "url": "https://findingstartups.com/startups",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Fintech News iLounge",
+    "url": "https://fintechnews.sq/submit-your-fintec",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "First 100 Users",
+    "url": "https://first100users.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Freeble",
+    "url": "https://freeble.site",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Fuel Up",
+    "url": "https://fuelup.co/add",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Future of Saas",
+    "url": "https://www.futureofsaas.io/contributor-",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "G2 Stack",
+    "url": "https://stack.g2.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Geek Wire",
+    "url": "https://Geekwire.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Geekopedia",
+    "url": "https://geekopedia.me/write-for-us",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Get App",
+    "url": "https://www.gartner.com/en/digital-marke",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Get Worm",
+    "url": "https://getworm.com/submit-startup",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "GetApp",
+    "url": "https://getapp.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Growing Page",
+    "url": "https://growingpage.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Growjo",
+    "url": "https://growjo.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Growth Hack List",
+    "url": "https://growthhacklist.com/startup-director",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Growth Hackers",
+    "url": "https://growthhackers.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Growth Junkie",
+    "url": "https://growthiunkie.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Growth Kit",
+    "url": "https://www.growthkit.so",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Gust",
+    "url": "https://gust.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Hackernoon",
+    "url": "https://hackernoon.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Hackerspad",
+    "url": "https://hackerspad.net",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Hopps",
+    "url": "https://hopps.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "How Brands Are Built",
+    "url": "https://howbrandsarebuilt.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "How to buy SaaS",
+    "url": "https://www.howtobuysaas.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "IT Central Station",
+    "url": "https://itcentralstation.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "ITQlick",
+    "url": "https://itqlick.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Inbox World",
+    "url": "https://inboxworld.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Inc42",
+    "url": "https://inc42.com/startup-submissic",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Index",
+    "url": "https://index.co/companies?&",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "India Mart",
+    "url": "https://seller.indiamart.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Indian Yellow Pages",
+    "url": "https://www.indianyellowpages.com/post-",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Indie Gamer Reviewer",
+    "url": "https://indiegamereviewer.com/contact-ir",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Indie Hustles",
+    "url": "https://indiehustles.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "IndieStack",
+    "url": "https://www.indiestack.co/contribute",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "IndieTool",
+    "url": "https://indietool.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Info World",
+    "url": "https://www.infoworld.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "InnMind",
+    "url": "https://innmind.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Insanely Cool Tools",
+    "url": "https://insanelycooltools.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Insanely Useful Websites",
+    "url": "https://insanelyusefulwebsites.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Inside",
+    "url": "https://community.inside.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Insur-Tech iPhone Life",
+    "url": "https://insur-tech.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Integrately",
+    "url": "https://integrately.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🧩 SaaS Marketplace",
+    "description": null
+  },
+  {
+    "name": "Joinly",
+    "url": "https://www.joinly.xyz",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Jona",
+    "url": "https://jonapr.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Karo Startup",
+    "url": "https://karostartup.com/advertise-with-us",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Killer Startups",
+    "url": "http://www.killerstartups.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "KitDB",
+    "url": "https://kitdb.app",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Kotaku",
+    "url": "https://kotaku.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Land-Book",
+    "url": "https://land-book.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Landing Folio",
+    "url": "https://www.landingfolio.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Latka",
+    "url": "https://getlatka.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Launched!",
+    "url": "https://launched.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Lets Venture",
+    "url": "https://letsventure.com/join/startup",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Letter List",
+    "url": "https://letterlist.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Life Hack",
+    "url": "https://www.lifehack.org",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Listly",
+    "url": "https://list.ly",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Lobsters",
+    "url": "https://lobste.rs",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Local",
+    "url": "https://partners.local.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Lunadio",
+    "url": "https://lunadio.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "MacTrast",
+    "url": "http://www.mactrast.com/contact",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Magnitt",
+    "url": "https://magnitt.com/startups",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Make Use Of",
+    "url": "https://www.makeuseof.com/contributor",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Maker Lead",
+    "url": "https://makerlead.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "MakerMove",
+    "url": "https://makermove.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Makerlog",
+    "url": "https://getmakerlog.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Makerpad",
+    "url": "http://makerpad.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Mashable",
+    "url": "https://in.mashable.com/website-informati",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Merchant Circle",
+    "url": "https://www.merchantcircle.com/signup/#‹",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Merchant Maverick",
+    "url": "https://merchantmaverick.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "MicroAcquire",
+    "url": "https://microacquire.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "💫 Other",
+    "description": null
+  },
+  {
+    "name": "MicroStartups",
+    "url": "https://www.microstartups.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "ModDB",
+    "url": "https://www.moddb.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Morning Brew",
+    "url": "https://morningbrew.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Mr. Free Tools",
+    "url": "https://mrfreetools.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "My Startup Tool",
+    "url": "https://mystartuptool.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Neede",
+    "url": "https://neede.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Netted",
+    "url": "https://www.netted.net",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "New Startups",
+    "url": "https://www.new-startups.com/pron",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Next Big Product",
+    "url": "http://nextbigproduct.net",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Next Big What",
+    "url": "https://nextbigwhat.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "No Code Founders",
+    "url": "https://nocodefounders.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "NoCode Tech",
+    "url": "https://www.nocode.tech/tools",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "NoCodeDevs",
+    "url": "https://nocodedevs.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Online Genuises",
+    "url": "https://onlinegeniuses.com/marketplace-",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🧩 SaaS Marketplace",
+    "description": null
+  },
+  {
+    "name": "Open Startup",
+    "url": "https://openstartup.tm",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Open Startup List",
+    "url": "https://openstartuplist.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Owwly",
+    "url": "https://owwly.com/products/all",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Oye Startups",
+    "url": "https://oyestartups.com/contact",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "PC Mag",
+    "url": "https://in.pcmag.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Paggu",
+    "url": "https://www.paggu.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Pando",
+    "url": "https://pando.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Pipedrive Marketplace",
+    "url": "https://marketplace.pipedrive.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🧩 SaaS Marketplace",
+    "description": null
+  },
+  {
+    "name": "PitchBook",
+    "url": "https://www.pitchbook.com/sponsorship",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Pocket Lint",
+    "url": "https://www.pocket-lint.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Pocket gamer",
+    "url": "https://www.pocketgamer.com/pages/cont",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Post Make",
+    "url": "https://postmake.io/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Prefundia",
+    "url": "https://prefundia.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Press Hunt",
+    "url": "https://presshunt.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Press Notify",
+    "url": "https://pressnotify.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "PressFarm",
+    "url": "https://press.farm",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Productivity Directory",
+    "url": "https://productivity.directory",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Profit Hunt",
+    "url": "https://profithunt.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Programmable Web",
+    "url": "https://www.programmableweb.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Project Hatch",
+    "url": "https://www.projecthatch.co/your-story",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Promote Project",
+    "url": "https://www.promoteproiect.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Promotehour",
+    "url": "https://promotehour.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Public APIs",
+    "url": "https://public-apis.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🤝 API Marketplace",
+    "description": null
+  },
+  {
+    "name": "RapidAPI",
+    "url": "https://rapidapi.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🤝 API Marketplace",
+    "description": null
+  },
+  {
+    "name": "ReadWrite",
+    "url": "https://readwrite.com/contributor-guideline",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Ready SaaS Go",
+    "url": "http://readysaasgo.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Red Ferret",
+    "url": "https://www.redferret.net/contact-us",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Remote Tools",
+    "url": "https://www.remote.tools",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Robingood",
+    "url": "https://tools.robingood.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Romanian Startups",
+    "url": "https://www.romanianstartups.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "SaaS Alliance",
+    "url": "https://saasalliance.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "SaaS Community",
+    "url": "https://saascommunity.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "SaaS Directory",
+    "url": "http://saasdirectory.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "SaaS Genius",
+    "url": "https://www.saasgenius.com/free-listing",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "SaaS Insider",
+    "url": "https://saasinsider.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "SaaS Mag",
+    "url": "https://saasmag.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "SaaS Place",
+    "url": "https://saasplace.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "💵 Acquire & Sell",
+    "description": null
+  },
+  {
+    "name": "SaaS Projects",
+    "url": "https://saasprojects.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "SaaSList",
+    "url": "https://saaslist.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "SaaSRefs",
+    "url": "https://saasrefs.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "SaaSified",
+    "url": "https://Saasified.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "SelectHub",
+    "url": "https://selecthub.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Serchen",
+    "url": "https://www.serchen.com/get-listed",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Shopify App Store",
+    "url": "https://apps.shopify.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🧩 SaaS Marketplace",
+    "description": null
+  },
+  {
+    "name": "Sick Tools",
+    "url": "https://sick.tools",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Side Bar",
+    "url": "https://Sidebar.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Silicon Angle",
+    "url": "https://siliconangle.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Similar Site Search",
+    "url": "http://similarsitesearch.com/webmaster",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Site Jabber",
+    "url": "https://www.siteiabber.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Slant",
+    "url": "http://slant.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Slash Dot",
+    "url": "http://slashdot.org",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Slate",
+    "url": "https://slate.com/pitch",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Small Business Marketing Tools",
+    "url": "https://sbmarketingtools.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Smart Money Match",
+    "url": "https://www.smartmoneymatch.com/busin",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Snapmunk",
+    "url": "https://startups.snapmunk.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Software Advice",
+    "url": "https://www.softwareadvice.com/vendors",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Software Suggest",
+    "url": "http://softwaresuggest.com/vendors",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "SoftwareSupp",
+    "url": "https://softwaresupp.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Space Bandits",
+    "url": "https://www.spacebandits.io/startups",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Spectacle",
+    "url": "https://spectacle.is/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Spiceworks",
+    "url": "https://spiceworks.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Spoke",
+    "url": "https://www.spoke.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "SpotSaaS",
+    "url": "https://spotsaas.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "SpringWise",
+    "url": "https://www.springwise.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "SpsFeed",
+    "url": "https://spsfeed.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "StackList",
+    "url": "https://stacklist.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  },
+  {
+    "name": "Start Us",
+    "url": "https://www.startus.cc",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Starter Story",
+    "url": "https://www.starterstory.com/share",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Starticorn",
+    "url": "https://starticorn.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Beat",
+    "url": "https://startupbeat.com/get-featured",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Startup Button",
+    "url": "https://www.startupbutton.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Collections",
+    "url": "http://startupcollections.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Costs",
+    "url": "https://www.startupcosts.co/signup",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Deals",
+    "url": "https://www.startupdeals.tech",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Dope",
+    "url": "https://startupdope.com/submit-nev",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Europe",
+    "url": "http://startupeurope.net",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Explore",
+    "url": "https://startupxplore.com/en/startur",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Founders",
+    "url": "https://startupfounders.com.au",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Galaxy",
+    "url": "https://world.startupsgalaxy.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Guys",
+    "url": "http://startupguys.net/submit-startup",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Inspire",
+    "url": "http://startupinspire.com/startups",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup John",
+    "url": "https://www.startupiohn.com/submit-startu",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Lift",
+    "url": "http://startuplift.com/submit-your-startup",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Pitch",
+    "url": "http://thestartuppitch.com/post-a-pi",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Ranking",
+    "url": "https://www.startupranking.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Resources",
+    "url": "https://startupresources.io",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Roulette",
+    "url": "http://startuproulette.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Savant",
+    "url": "https://startupsavant.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Sea",
+    "url": "http://www.startupsea.com/p/submi",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Tabs",
+    "url": "https://www.startuptabs.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Tracker",
+    "url": "https://startuptracker.io/crowdsourcing",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Wizz",
+    "url": "http://startupwizz.com/submit-a-startup",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup Wonders",
+    "url": "https://startupwonders.com/submit/star",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup World",
+    "url": "https://www.startupworld.com/conti",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup benchmarks",
+    "url": "https://www.startupbenchmarks.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup-List",
+    "url": "https://www.startups-list.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startup88",
+    "url": "https://startup88.com/category/star",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "StartupStage",
+    "url": "https://startupstage.app",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "StartupTile",
+    "url": "https://startuptile.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "StartupValley News",
+    "url": "https://www.startupvalley.news/apply-now,",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Startups UK",
+    "url": "https://startups.co.uk/contact-us",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startups Watch",
+    "url": "https://startups.watch",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Startups of London",
+    "url": "https://startupsoflondon.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "State of Tech",
+    "url": "https://stateoftech.net",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Storyfied",
+    "url": "https://storyfied.com/get-featured",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Stripe App Marketplace",
+    "url": "https://marketplace.stripe.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🧩 SaaS Marketplace",
+    "description": null
+  },
+  {
+    "name": "Submissions Web Directory",
+    "url": "https://www.submissionwebdirectory.cor",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "📂 General Directory",
+    "description": null
+  },
+  {
+    "name": "Submit Juice",
+    "url": "https://submitjuice.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "SuitApp",
+    "url": "https://suitapp.de",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Superbcrew",
+    "url": "https://www.superbcrew.com/about",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Surges",
+    "url": "https://www.surges.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Taalk",
+    "url": "https://taalk.com/submit-startup",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "TapScape",
+    "url": "http://www.tapscape.com/submit-app-re",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "TeachOnline",
+    "url": "https://teachonline.ca/tools-trends/best-pr",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tech",
+    "url": "https://tech.eu",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tech Co.",
+    "url": "https://tech.co/contact",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Tech Directory",
+    "url": "http://techdirectory.io/get-listed",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Tech Dirt",
+    "url": "http://techdirt.com/submitstory.php",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tech Faster",
+    "url": "http://techfaster.com/submit-your-c",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tech Hive",
+    "url": "https://www.techhive.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tech In Asia",
+    "url": "https://www.techinasia.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tech Pluto",
+    "url": "https://www.techpluto.com/submit-a-star",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "TechBehemoths",
+    "url": "https://techbehemoths.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "TechBoard",
+    "url": "https://techboard.com.au",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Techendo",
+    "url": "http://techendo.com/beta",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Techli",
+    "url": "https://techli.com/contact",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "TechnologyAdvice",
+    "url": "https://technologyadvice.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Tekpon",
+    "url": "https://tekpon.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "That App Show",
+    "url": "https://thatappshow.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The AI Warehouse",
+    "url": "https://thewarehouse.ai",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Apple Google",
+    "url": "http://theapplegoogle.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Fascination",
+    "url": "https://thefascination.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Hive Index",
+    "url": "https://thehiveindex.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Indianpreneur",
+    "url": "https://theindianpreneur.com/advertise-",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Next Web",
+    "url": "https://deals.thenextweb.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Popular Apps",
+    "url": "http://thepopularapps.com/submit-app",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Startup Inc",
+    "url": "https://www.thestartupinc.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Startup Journal",
+    "url": "http://thestartupjournal.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Startup Videos",
+    "url": "http://thestartupvideos.com/submit-",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Tech Blog",
+    "url": "https://www.thetechblock.com/contact-t",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Tech Index",
+    "url": "https://thetechindex.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Tech Map",
+    "url": "http://thetechmap.com/Account/Login",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "The iPhone App Review",
+    "url": "http://theiphoneappreview.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "TheNoCodeCrew",
+    "url": "https://thenocodecrew.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Thing Testing",
+    "url": "https://thingtesting.com/submit-brand",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tool Finder",
+    "url": "https://toolfinder.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tool Salad",
+    "url": "https://toolsalad.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tools",
+    "url": "https://tools.so",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tools NoCode",
+    "url": "https://toolsnocode.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tools for Makers",
+    "url": "https://toolsformakers.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Toools.design",
+    "url": "https://toools.design",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Top No Code Tools",
+    "url": "https://topnocode.tools",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Topion Networls",
+    "url": "https://www.topionetworks.com/#new-sitt",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Toshilist",
+    "url": "https://www.toshilist.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "ToucheArcade",
+    "url": "https://toucharcade.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Tran",
+    "url": "https://tracxn.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Trendy Startups",
+    "url": "http://trendystartups.com/register",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Trust Pilot",
+    "url": "http://trustpilot.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Trust Radius",
+    "url": "http://trustradius.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "⭐️ Review Directory",
+    "description": null
+  },
+  {
+    "name": "Unboxing Startups",
+    "url": "https://unboxingstartups.com/contact",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Under 1000 MRR",
+    "url": "https://under1000mrr.tools",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Unita",
+    "url": "https://www.unita.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Up Labs",
+    "url": "https://www.uplabs.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Valuer",
+    "url": "https://www.valuer.ai",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Vator News",
+    "url": "https://vator.tv",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Venture Beat",
+    "url": "https://venturebeat.com/quest-posts",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "VentureRadar",
+    "url": "http://ventureradar.com/add_company",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Viral Indian Diary",
+    "url": "https://www.viralindiandiary.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Virtual Mojito",
+    "url": "https://virtualmojito.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "W3 Catalog",
+    "url": "http://w3catalog.com/submit.php",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Web App Rater",
+    "url": "https://webapprater.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Web Designer News",
+    "url": "https://webdesignernews.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🗞 Press Coverage",
+    "description": null
+  },
+  {
+    "name": "Web Tools Weekly",
+    "url": "http://webtoolsweekly.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Web3 Canvas",
+    "url": "http://web3canvas.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Webdesign Inspiration",
+    "url": "https://webdesign-inspiration.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Webwide",
+    "url": "http://webwide.io/forums/project-showca",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "What's new on the net",
+    "url": "https://www.whatsnewonthenet.com/conti",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Women Entrepreneurs Portal",
+    "url": "https://wep.gov.in/knowledge-bank/mybl",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "YC Startup School",
+    "url": "https://www.startupschool.org",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Yelp",
+    "url": "https://business.velp.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Young Upstarts",
+    "url": "http://youngupstarts.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Younoodle",
+    "url": "http://younoodle.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Your Stack",
+    "url": "https://yourstack.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "YourStory",
+    "url": "https://yourstory.com/companies",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "ZDNet",
+    "url": "https://www.zdnet.com/blog",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "Zumvu",
+    "url": "http://zumvu.com/make-profile.zvx",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "🚀 Startup Directory",
+    "description": null
+  },
+  {
+    "name": "e27",
+    "url": "https://e27.co",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": null,
+    "category": "👥 Community",
+    "description": null
+  }
+]

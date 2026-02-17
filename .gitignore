@@ -1,0 +1,7 @@
+.DS_Store
+*.xlsx
+*.swp
+*.swo
+node_modules/
+__pycache__/
+.env
