@@ -207,6 +207,7 @@ Top DR: **96** · Dofollow: **269**
 | [SpringWise](https://www.springwise.com) | 68 | ❌ Nofollow | — | Innovation intelligence platform spotting global trends, business ideas, and sustainable innovations. |
 | [Startups UK](https://startups.co.uk/contact-us) | 68 | ❌ Nofollow | — | UK's leading resource for small businesses and startups, offering guides, tools, and business advice. |
 | [Tran](https://tracxn.com) | 68 | ❌ Nofollow | — | Tracxn is a startup intelligence platform providing data on startups, investors, and funding worldwide. |
+| [Aura++](https://auraplusplus.com) | 67 | ✅ Dofollow | — | Increase Your Online Aura |
 | [AiTools](https://aitools.inc) | 67 | ❌ Nofollow | — | Handy directory for finding AI tools |
 | [toolsfine](https://toolsfine.com) | 67 | ✅ Dofollow | — | better tools, better work |
 | [aiwith.me](https://aiwith.me) | 66 | ✅ Dofollow | — | Discover the latest and best AI tools |
@@ -216,7 +217,6 @@ Top DR: **96** · Dofollow: **269**
 | [Sprout24](https://sprout24.com) | 64 | ✅ Dofollow | Freemium | Software discovery and review platform helping businesses find the right tools through expert reviews and comparisons. |
 | [Betakit](https://betakit.com) | 63 | ✅ Dofollow | — | Canadian technology news platform covering startups, venture capital, and the innovation ecosystem. |
 | [Land-Book](https://land-book.com) | 63 | ❌ Nofollow | — | Web design gallery and inspiration site showcasing the best landing pages, websites, and design patterns. |
-| [Aura++](https://auraplusplus.com) | 62 | ✅ Dofollow | — | Increase Your Online Aura |
 | [Merchant Circle](https://www.merchantcircle.com/signup/#‹) | 62 | ❌ Nofollow | — | Local business marketing network connecting merchants with customers through business listings and coupons. |
 | [Startup Savant](https://startupsavant.com) | 62 | ✅ Dofollow | — | Startup resource hub offering guides, tools, and inspiration for entrepreneurs starting new businesses. |
 | [Tech](https://tech.eu) | 62 | ❌ Nofollow | — | European technology news platform (Tech.eu) covering startups, investment, and innovation across Europe. |
@@ -253,6 +253,7 @@ Top DR: **96** · Dofollow: **269**
 | [TrustMRR](https://trustmrr.com) | 54 | ✅ Dofollow | — | The database of verified startup revenues |
 | [StartupTrusted](https://startuptrusted.com) | 53 | ✅ Dofollow | — | Discover trusted startups and submit your own to get discovered. |
 | [TinyLaunch](https://www.tinylaun.ch) | 52 | ✅ Dofollow | Freemium | Indie maker launch platform where creators share and discover small projects, tools, and side projects with a support... |
+| [Uno Directory](https://uno.directory) | 52 | ✅ Dofollow | Freemium | Curated startup and SaaS directory helping founders improve SEO with dofollow backlinks and reach a broader audience. |
 | [Cuspera e27](https://www.cuspera.com/vendors) | 52 | ❌ Nofollow | — | Software evaluation platform using AI-powered insights to help businesses select the right vendor solutions. |
 | [Landing Folio](https://www.landingfolio.com) | 52 | ❌ Nofollow | — | Landing page design inspiration gallery with categorized examples and conversion-focused design patterns. |
 | [Lets Venture](https://letsventure.com/join/startup) | 52 | ❌ Nofollow | — | Indian angel investing platform connecting startups with angel investors and syndicates for early-stage funding. |
@@ -280,6 +281,7 @@ Top DR: **96** · Dofollow: **269**
 | [Remote Tools](https://www.remote.tools) | 48 | ✅ Dofollow | — | Curated directory of tools and resources for remote workers and distributed teams. |
 | [Startups Watch](https://startups.watch) | 48 | ❌ Nofollow | — | Turkish startup ecosystem analytics platform tracking startups, investors, and funding in Turkey. |
 | [Women Entrepreneurs Portal](https://wep.gov.in/knowledge-bank/mybl) | 48 | ❌ Nofollow | — | Indian government portal supporting women entrepreneurs with resources, knowledge, and business registration tools. |
+| [IndieHunt](https://indiehunt.io) | 47 | ✅ Dofollow | Freemium | Discover and launch indie products, tools, and startups with a focus on community-driven growth and high-quality backlinks. |
 | [AiTools](https://aitools.fyi) | 46 | ✅ Dofollow | — | Find Best AI Tools That Make Your Life Easy! |
 | [Huzzler](https://huzzler.so) | 46 | ✅ Dofollow | — | Platform for discovering and promoting new startup projects. |
 | [SoloPush](https://solopush.com) | 46 | ✅ Dofollow | — | Platform for solo entrepreneurs to promote their projects. |
@@ -308,6 +310,7 @@ Top DR: **96** · Dofollow: **269**
 | [Techli](https://techli.com/contact) | 42 | ✅ Dofollow | — | Technology news and startup media platform covering entrepreneurship, innovation, and tech events. |
 | [The Hive Index](https://thehiveindex.com/submit) | 42 | ✅ Dofollow | — | Directory of online communities organized by topic, helping users find forums, Slack groups, and Discord servers. |
 | [Young Upstarts](http://youngupstarts.com) | 42 | ✅ Dofollow | — | Startup media platform featuring young entrepreneur stories, business advice, and startup ecosystem coverage. |
+| [EarlyHunt](https://earlyhunt.com) | 42 | ✅ Dofollow | Freemium | Product launch platform for startups and indie makers to gain early traction, SEO backlinks, and exposure to early adopters. |
 | [Awesome Tools](https://awesome.tools) | 41 | ✅ Dofollow | — | Best Awesome Tools for Startups |
 | [Micro SaaS Examples](https://www.microsaasexamples.com) | 41 | ✅ Dofollow | — | Explore the best micro saas ideas from the internet. |
 | [Victrays](https://victrays.com) | 40 | ✅ Dofollow | Freemium | AI tools directory and tech resource hub featuring curated lists of AI-powered tools across multiple categories. |
