@@ -671,7 +671,7 @@ Top DR: **91** · Dofollow: **20**
 | [StackList](https://stacklist.com) | 18 | ✅ Dofollow | — | Tech stack directory showing what tools and technologies companies and makers use in their projects. |
 | [Appsolite](https://appsolite.com) | 15 | ✅ Dofollow | — | App and startup listing community where founders can showcase their products and get early feedback. |
 | [MakerMove](https://makermove.com) | 15 | ✅ Dofollow | — | Community platform for makers and indie hackers to share their products, progress, and milestones. |
-
+| [ProductWatch](https://productwatch.io/) | - | ✅ Dofollow | — | Your Daily Feed of New Tech Products & Startups |
 </details>
 
 
