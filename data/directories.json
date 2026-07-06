@@ -3186,6 +3186,15 @@
     "description": "PR and media outreach platform helping startups connect with journalists and get press coverage."
   },
   {
+    "name": "JustLaunched",
+    "url": "https://justlaunched.fyi",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Directory to submit and discover newly launched SaaS products, organized by category, to reach early adopters."
+  },
+  {
     "name": "Karo Startup",
     "url": "https://karostartup.com/advertise-with-us",
     "domain_rating": 22,
