@@ -5236,5 +5236,14 @@
     "pricing": null,
     "category": "👥 Community",
     "description": "Southeast Asian startup ecosystem platform covering tech news, events, funding, and community connections."
+  },
+  {
+    "name": "OpenInvoke",
+    "url": "https://openinvoke.com",
+    "domain_rating": null,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🤖 AI Directory",
+    "description": "Curated, human-reviewed directory of AI agents and callable tools. Free listings for tool builders."
   }
 ]
