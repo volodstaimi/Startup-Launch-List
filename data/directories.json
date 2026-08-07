@@ -5236,5 +5236,14 @@
     "pricing": null,
     "category": "👥 Community",
     "description": "Southeast Asian startup ecosystem platform covering tech news, events, funding, and community connections."
+  },
+  {
+    "name": "JiYuShe",
+    "url": "https://jiyushe.com/",
+    "domain_rating": 0,
+    "link_type": "Nofollow",
+    "pricing": "Free",
+    "category": "👥 Community",
+    "description": "Discover, Share & Remix Community Curated Lists"
   }
 ]
