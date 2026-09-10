@@ -5236,5 +5236,14 @@
     "pricing": null,
     "category": "👥 Community",
     "description": "Southeast Asian startup ecosystem platform covering tech news, events, funding, and community connections."
+  },
+  {
+    "name": "AppLensy",
+    "url": "https://applensy.com/submit",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Freemium",
+    "category": "⭐️ Review Directory",
+    "description": "Software discovery and comparison directory with free reviewed listings, publisher updates, and optional paid promotion."
   }
 ]
