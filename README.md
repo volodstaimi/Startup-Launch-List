@@ -7,8 +7,8 @@
 ### Curated. Categorized. Community-maintained.
 
 [![Directories](https://img.shields.io/badge/Directories-594-blue?style=for-the-badge)](data/directories.json)
-[![DR Data](https://img.shields.io/badge/With_DR_Data-585-green?style=for-the-badge)](data/directories.csv)
-[![Dofollow](https://img.shields.io/badge/Dofollow-375-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
+[![DR Data](https://img.shields.io/badge/With_DR_Data-586-green?style=for-the-badge)](data/directories.csv)
+[![Dofollow](https://img.shields.io/badge/Dofollow-376-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 **[Browse by Category](#-browse-by-category)** · **[Top 20 by DR](#-top-20-highest-authority-directories)** · **[Submission Strategy](#-submission-strategy)** · **[JSON](data/directories.json)** · **[CSV](data/directories.csv)**
@@ -36,9 +36,9 @@ Every founder goes through the same ritual — Googling "where to submit my star
 | | Count |
 |---|------:|
 | 📁 Total directories | **594** |
-| 📈 With Domain Rating data | **585** |
-| ✅ Dofollow backlinks | **375** |
-| ❌ Nofollow backlinks | **215** |
+| 📈 With Domain Rating data | **586** |
+| ✅ Dofollow backlinks | **376** |
+| ❌ Nofollow backlinks | **214** |
 | 🆓 Free or Freemium | **100** |
 
 </div>
@@ -687,7 +687,7 @@ Top DR: **91** · Dofollow: **20**
 
 ### 🤖 AI Directory (29)
 
-Top DR: **91** · Dofollow: **26**
+Top DR: **91** · Dofollow: **27**
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -700,7 +700,7 @@ Top DR: **91** · Dofollow: **26**
 | [AI Library](https://library.phygital.plus) | 46 | ✅ Dofollow | Freemium | Curated library of AI tools and resources powered by Phygital+, organized by category for easy discovery. |
 | [EliteAI Tools](https://eliteai.tools) | 45 | ✅ Dofollow | Freemium | Curated directory of premium AI tools, featuring detailed reviews and categorized listings across multiple AI categor... |
 | [Navs Site](https://navs.site) | 45 | ✅ Dofollow | Freemium | AI tools navigation site helping users discover and compare AI-powered products across various categories. |
-| [AI Agents Directory](https://aiagentsdirectory.com) | 43 | ✅ Dofollow | Freemium | Specialized directory focused on AI agents and autonomous AI tools, helping users find AI agents for automation and p... |
+| [Public Prompts](https://www.publicprompts.art) | 44 | ✅ Dofollow | Paid | Paid-only AI tools directory: US$19.99 one-time plus applicable tax (refunded if declined). Paid listings have dofollow links; other links may be nofollow. |
 
 <details>
 <summary>View all 29 directories</summary>
@@ -716,6 +716,7 @@ Top DR: **91** · Dofollow: **26**
 | [AI Library](https://library.phygital.plus) | 46 | ✅ Dofollow | Freemium | Curated library of AI tools and resources powered by Phygital+, organized by category for easy discovery. |
 | [EliteAI Tools](https://eliteai.tools) | 45 | ✅ Dofollow | Freemium | Curated directory of premium AI tools, featuring detailed reviews and categorized listings across multiple AI categor... |
 | [Navs Site](https://navs.site) | 45 | ✅ Dofollow | Freemium | AI tools navigation site helping users discover and compare AI-powered products across various categories. |
+| [Public Prompts](https://www.publicprompts.art) | 44 | ✅ Dofollow | Paid | Paid-only AI tools directory: US$19.99 one-time plus applicable tax (refunded if declined). Paid listings have dofollow links; other links may be nofollow. |
 | [AI Agents Directory](https://aiagentsdirectory.com) | 43 | ✅ Dofollow | Freemium | Specialized directory focused on AI agents and autonomous AI tools, helping users find AI agents for automation and p... |
 | [AI Startups](https://aistartups.net) | 43 | ✅ Dofollow | Freemium | Directory dedicated to AI startups, showcasing emerging companies building innovative artificial intelligence product... |
 | [BestofAI](https://bestofai.com) | 39 | ✅ Dofollow | Freemium | Curated collection of the best AI tools and products, organized by use case to help users find the right AI solution. |
@@ -735,7 +736,6 @@ Top DR: **91** · Dofollow: **26**
 | [Lachief.io](https://lachief.io) | 21 | ✅ Dofollow | Freemium | AI tools directory and launch platform helping AI product makers get visibility and users discover new AI tools. |
 | [NewAIForYou](https://newaiforyou.com) | 20 | ✅ Dofollow | Freemium | Daily-updated AI tools directory showcasing the newest AI products and tools for various use cases. |
 | [FalcoScan](https://falcoscan.com) | — | — | Freemium | AI market tracker and directory covering 8,000+ AI products across 30 markets; free listing, paid plans for market data. |
-| [Public Prompts](https://www.publicprompts.art) | — | ❌ Nofollow | Paid | Paid-only AI tools directory: US$19.99 one-time fee per submission (refunded if declined), no free listing option, and links are nofollow. |
 
 </details>
 

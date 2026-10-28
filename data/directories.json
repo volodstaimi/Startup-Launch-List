@@ -1008,6 +1008,15 @@
     "description": "We Like Tools celebrates the best productivity solutions. Discover tools that we genuinely recommend and love.\t"
   },
   {
+    "name": "Public Prompts",
+    "url": "https://www.publicprompts.art",
+    "domain_rating": 44,
+    "link_type": "Dofollow",
+    "pricing": "Paid",
+    "category": "🤖 AI Directory",
+    "description": "Paid-only AI tools directory: US$19.99 one-time plus applicable tax (refunded if declined). Paid listings have dofollow links; other links may be nofollow."
+  },
+  {
     "name": "AI Agents Directory",
     "url": "https://aiagentsdirectory.com",
     "domain_rating": 43,
@@ -5335,14 +5344,5 @@
     "pricing": "Freemium",
     "category": "🚀 Startup Directory",
     "description": "Curated directory of productivity, AI, design, development, and SaaS tools; free listing with a backlink or paid from $20."
-  },
-  {
-    "name": "Public Prompts",
-    "url": "https://www.publicprompts.art",
-    "domain_rating": null,
-    "link_type": "Nofollow",
-    "pricing": "Paid",
-    "category": "🤖 AI Directory",
-    "description": "Paid-only AI tools directory: US$19.99 one-time fee per submission (refunded if declined), no free listing option, and links are nofollow."
   }
 ]
