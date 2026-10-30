@@ -81,6 +81,8 @@ Use one of these standard categories:
 | 🚀 Startup Directory | General product/startup listing sites |
 | ⭐️ Review Directory | Software review & comparison platforms |
 | 🤖 AI Directory | AI/ML tools directories |
+| 💻 Software Directory | Software, SaaS, developer and marketing tool directories |
+| 🎨 Design Directory | Design tools and resources |
 | 👥 Community | Forums, maker communities |
 | 🗞 Press Coverage | Tech news, media outlets |
 | 📂 General Directory | Web/link directories |
