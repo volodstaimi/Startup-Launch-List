@@ -15685,5 +15685,14 @@
     "pricing": "Paid",
     "category": "🤖 AI Directory",
     "description": "Paid-only AI tools directory: US$19.99 one-time fee per submission (refunded if declined), no free listing option, and links are nofollow."
+  },
+  {
+    "name": "MediaProNet",
+    "url": "https://mediapronet.com",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Freemium",
+    "category": "🚀 Startup Directory",
+    "description": "Curated directory where founders list new startups, SaaS tools and indie products. Free listings wait at least 7 days and need a badge on the submitted site; paid plans start at $19 one-time."
   }
 ]
