@@ -15669,6 +15669,15 @@
     "description": "Directory to submit and discover newly launched SaaS products, organized by category, to reach early adopters."
   },
   {
+    "name": "RoboDebut",
+    "url": "https://robodebut.com",
+    "domain_rating": null,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Directory of websites and startups where the maker's coding agent submits the listing through an API; listing requires a homepage badge and is reviewed by a person before it goes live."
+  },
+  {
     "name": "StarTap",
     "url": "https://startap.cc",
     "domain_rating": null,
