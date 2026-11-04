@@ -15669,6 +15669,15 @@
     "description": "Directory to submit and discover newly launched SaaS products, organized by category, to reach early adopters."
   },
   {
+    "name": "QuickMatch",
+    "url": "https://quickmatch.si",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Free",
+    "category": "🤖 AI Directory",
+    "description": "AI tools directory for game development, with side-by-side comparisons of tools for 3D, art, music, voice and code. Free to list."
+  },
+  {
     "name": "StarTap",
     "url": "https://startap.cc",
     "domain_rating": null,
