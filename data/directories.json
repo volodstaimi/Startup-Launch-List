@@ -15685,5 +15685,32 @@
     "pricing": "Paid",
     "category": "🤖 AI Directory",
     "description": "Paid-only AI tools directory: US$19.99 one-time fee per submission (refunded if declined), no free listing option, and links are nofollow."
+  },
+  {
+    "name": "PWA Directory",
+    "url": "https://pwa.directory",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Freemium",
+    "category": "🧩 SaaS Marketplace",
+    "description": "Curated directory of installable progressive web apps; free submission, optional paid Fast-Track."
+  },
+  {
+    "name": "WebApps Directory",
+    "url": "https://webapps.directory",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Freemium",
+    "category": "💻 Software Directory",
+    "description": "Curated directory of web apps that run in the browser; free submission, optional paid Fast-Track."
+  },
+  {
+    "name": "Boilerplates Directory",
+    "url": "https://boilerplates.directory",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Freemium",
+    "category": "💻 Software Directory",
+    "description": "Compares SaaS starter kits and boilerplates by stack, pricing and features; free submission, optional paid Fast-Track."
   }
 ]
