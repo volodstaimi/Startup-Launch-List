@@ -4500,6 +4500,15 @@
     "description": "Human-edited web directory that organizes submitted websites into topic categories."
   },
   {
+    "name": "launched.tools",
+    "url": "https://launched.tools",
+    "domain_rating": 51,
+    "link_type": "Dofollow",
+    "pricing": "Free",
+    "category": "🤖 AI Directory",
+    "description": "Human-reviewed directory of AI tools where every listing is test-driven and scored out of 100; the free listing publishes once a badge is embedded."
+  },
+  {
     "name": "10015 Tools",
     "url": "https://10015.io",
     "domain_rating": 50,
