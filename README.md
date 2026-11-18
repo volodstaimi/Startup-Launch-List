@@ -2,13 +2,13 @@
 
 # 🚀 Startup Launch List
 
-### 1740+ directories to submit your startup, SaaS, dev tool, or AI product.
+### 1750+ directories to submit your startup, SaaS, dev tool, or AI product.
 
 ### Curated. Categorized. Community-maintained.
 
-[![Directories](https://img.shields.io/badge/Directories-1743-blue?style=for-the-badge)](data/directories.json)
-[![DR Data](https://img.shields.io/badge/With_DR_Data-1737-green?style=for-the-badge)](data/directories.csv)
-[![Dofollow](https://img.shields.io/badge/Dofollow-910-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
+[![Directories](https://img.shields.io/badge/Directories-1751-blue?style=for-the-badge)](data/directories.json)
+[![DR Data](https://img.shields.io/badge/With_DR_Data-1739-green?style=for-the-badge)](data/directories.csv)
+[![Dofollow](https://img.shields.io/badge/Dofollow-914-brightgreen?style=for-the-badge)](#-top-20-highest-authority-directories)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 **[Browse by Category](#-browse-by-category)** · **[Top 20 by DR](#-top-20-highest-authority-directories)** · **[Submission Strategy](#-submission-strategy)** · **[JSON](data/directories.json)** · **[CSV](data/directories.csv)**
@@ -35,11 +35,11 @@ Every founder goes through the same ritual — Googling "where to submit my star
 
 | | Count |
 |---|------:|
-| 📁 Total directories | **1743** |
-| 📈 With Domain Rating data | **1737** |
-| ✅ Dofollow backlinks | **910** |
-| ❌ Nofollow backlinks | **377** |
-| 🆓 Free or Freemium | **896** |
+| 📁 Total directories | **1751** |
+| 📈 With Domain Rating data | **1739** |
+| ✅ Dofollow backlinks | **914** |
+| ❌ Nofollow backlinks | **376** |
+| 🆓 Free or Freemium | **904** |
 
 </div>
 
@@ -47,10 +47,10 @@ Every founder goes through the same ritual — Googling "where to submit my star
 
 | Category | Count | |
 |----------|------:|---|
-| 🚀 Startup Directory | 545 | ██████████████████████████████████████████ |
-| 📂 General Directory | 407 | ███████████████████████████████ |
-| 🤖 AI Directory | 317 | ████████████████████████ |
-| 💻 Software Directory | 213 | ████████████████ |
+| 🚀 Startup Directory | 549 | ██████████████████████████████████████████ |
+| 📂 General Directory | 406 | ███████████████████████████████ |
+| 🤖 AI Directory | 319 | ████████████████████████ |
+| 💻 Software Directory | 216 | █████████████████ |
 | ⭐️ Review Directory | 70 | █████ |
 | 👥 Community | 63 | █████ |
 | 🎨 Design Directory | 61 | █████ |
@@ -97,14 +97,14 @@ Start here. These give the most SEO value.
 
 Jump to a category:
 
-> 🚀 [Startup Directories](#-startup-directory-545) · 📂 [General Directories](#-general-directory-407) · 🤖 [AI Directories](#-ai-directory-317) · 💻 [Software](#-software-directory-213) · ⭐️ [Review Sites](#-review-directory-70) · 👥 [Communities](#-community-63) · 🎨 [Design](#-design-directory-61) · 🧩 [SaaS Marketplaces](#-saas-marketplace-36) · 🗞 [Press & Media](#-press-coverage-20) · 💫 [Other](#-other-5) · 🤝 [API Marketplaces](#-api-marketplace-2) · 🌍 [International](#-international-2) · 💻 [Social Media](#-social-media-1) · 💵 [Acquire & Sell](#-acquire--sell-1)
+> 🚀 [Startup Directories](#-startup-directory-549) · 📂 [General Directories](#-general-directory-406) · 🤖 [AI Directories](#-ai-directory-319) · 💻 [Software](#-software-directory-216) · ⭐️ [Review Sites](#-review-directory-70) · 👥 [Communities](#-community-63) · 🎨 [Design](#-design-directory-61) · 🧩 [SaaS Marketplaces](#-saas-marketplace-36) · 🗞 [Press & Media](#-press-coverage-20) · 💫 [Other](#-other-5) · 🤝 [API Marketplaces](#-api-marketplace-2) · 🌍 [International](#-international-2) · 💻 [Social Media](#-social-media-1) · 💵 [Acquire & Sell](#-acquire--sell-1)
 
 ---
 
 
-### 🚀 Startup Directory (545)
+### 🚀 Startup Directory (549)
 
-Top DR: **96** · Dofollow: **332**
+Top DR: **96** · Dofollow: **335**
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -120,7 +120,7 @@ Top DR: **96** · Dofollow: **332**
 | [Fast Company](https://www.fastcompany.com) | **91** | ❌ Nofollow | — | Business media brand focused on innovation, technology, leadership, and world-changing ideas. |
 
 <details>
-<summary>View all 545 directories</summary>
+<summary>View all 549 directories</summary>
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -279,6 +279,7 @@ Top DR: **96** · Dofollow: **332**
 | [TrustMRR](https://trustmrr.com) | 54 | ✅ Dofollow | Free | The database of verified startup revenues |
 | [LaunchClash](https://launchclash.com) | 54 | ✅ Dofollow | Free | Product launch site that highlights new tools and solutions released each week. |
 | [Pitchdeckhunt](https://www.pitchdeckhunt.com) | 54 | — | — | Curated collection of startup pitch deck examples from early-stage companies to unicorns. |
+| [Submito](https://submito.net) | 54 | ✅ Dofollow | Freemium | Product discovery directory where makers submit AI tools, apps and side projects by category, with a free badge-exchange listing or paid priority review. |
 | [TinyHunt](https://tinyhunt.dev) | 54 | ✅ Dofollow | Free | Product discovery platform where makers launch tech products and users upvote new startups, SaaS and AI tools. |
 | [StartupTrusted](https://startuptrusted.com) | 53 | ✅ Dofollow | Paid | Discover trusted startups and submit your own to get discovered. |
 | [ShipBoost](https://shipboost.io) | 53 | ✅ Dofollow | Freemium | Launch platform for bootstrapped SaaS founders, combining weekly launch boards, public listings and editorial articles. |
@@ -669,13 +670,16 @@ Top DR: **96** · Dofollow: **332**
 | [Altimateguide](https://altimateguide.com) | — | ✅ Dofollow | Freemium | Manually reviewed software directory with tool profiles, comparisons, and alternatives; free listing via badge or $14.99 one-time. |
 | [JustLaunched](https://justlaunched.fyi) | — | — | Free | Directory to submit and discover newly launched SaaS products, organized by category, to reach early adopters. |
 | [StarTap](https://startap.cc) | — | — | Free | Gamified free startup directory where makers list websites and compete for Stars on daily and all-time leaderboards. |
+| [LaunchWren](https://launchwren.com) | — | ✅ Dofollow | Free | Free weekly launch platform for indie makers where every launch gets feedback from 3 makers and traffic stats are public; dofollow with the badge or a top 3 weekly finish, otherwise nofollow. |
+| [RoboDebut](https://robodebut.com) | — | ✅ Dofollow | Free | Directory of websites and startups where the maker's coding agent submits the listing through an API; listing requires a homepage badge and is reviewed by a person before it goes live. |
+| [MediaProNet](https://mediapronet.com) | — | — | Freemium | Curated directory where founders list new startups, SaaS tools and indie products. Free listings wait at least 7 days and need a badge on the submitted site; paid plans start at $19 one-time. |
 
 </details>
 
 
-### 📂 General Directory (407)
+### 📂 General Directory (406)
 
-Top DR: **100** · Dofollow: **126**
+Top DR: **100** · Dofollow: **125**
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -691,7 +695,7 @@ Top DR: **100** · Dofollow: **126**
 | [Business](https://business.com) | **87** | — | — | Directory of business services and companies, organized by category. |
 
 <details>
-<summary>View all 407 directories</summary>
+<summary>View all 406 directories</summary>
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -794,7 +798,6 @@ Top DR: **100** · Dofollow: **126**
 | [Ellysdirectory](https://ellysdirectory.com) | 54 | — | — | Web directory of selected links that serves as a starting point for searching the web. |
 | [Gmawebdirectory](https://gmawebdirectory.com) | 54 | — | — | Montreal business directory and yellow pages covering the Greater Montreal Area, including restaurants. |
 | [Localbiznetwork](https://localbiznetwork.com) | 54 | — | — | Local business network and directory where companies list their services. |
-| [Submito](https://submito.net) | 54 | ✅ Dofollow | Freemium | Web directory where site owners can submit their websites to be listed by category. |
 | [MaxieBestOf](https://maxibestof.one/submit) | 53 | ✅ Dofollow | Free | Web directory with a submission page for adding websites and online projects to its listings. |
 | [Techbasedirectory](https://techbasedirectory.com) | 53 | ✅ Dofollow | Paid | Directory of technology businesses, startups and tech products for people researching new companies. |
 | [Viberank](https://viberank.dev) | 53 | ✅ Dofollow | Free | Product Hunt alternative where makers submit apps, collect votes and climb leaderboards ranked by week, month and all time. |
@@ -1106,9 +1109,9 @@ Top DR: **100** · Dofollow: **126**
 </details>
 
 
-### 🤖 AI Directory (317)
+### 🤖 AI Directory (319)
 
-Top DR: **91** · Dofollow: **229**
+Top DR: **91** · Dofollow: **231**
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -1124,7 +1127,7 @@ Top DR: **91** · Dofollow: **229**
 | [Aitoolzdir](https://aitoolzdir.com) | **70** | ✅ Dofollow | Freemium | Directory of hand-picked AI tools sorted by category, from text and image generation to chatbots and agents. |
 
 <details>
-<summary>View all 317 directories</summary>
+<summary>View all 319 directories</summary>
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -1179,6 +1182,7 @@ Top DR: **91** · Dofollow: **229**
 | [Aiboom](https://aiboom.tools) | 51 | ✅ Dofollow | Freemium | Directory of hand-reviewed AI tools sorted into categories, where makers can submit their own. |
 | [Creati](https://creati.ai) | 51 | ✅ Dofollow | Freemium | AI tools directory where users browse AI products and makers can submit new ones. |
 | [Iuu](https://iuu.ai/submit) | 51 | ✅ Dofollow | Free | AI tool directory with a submission form for makers who want their AI product listed. |
+| [launched.tools](https://launched.tools) | 51 | ✅ Dofollow | Free | Human-reviewed directory of AI tools where every listing is test-driven and scored out of 100; the free listing publishes once a badge is embedded. |
 | [Power Up Tools](https://poweruptools.com) | 50 | ✅ Dofollow | Free | Directory of AI tools where makers can submit their products and users browse by category. |
 | [ToolDirectory.ai](https://tooldirectory.ai) | 50 | ❌ Nofollow | Free | Directory of AI tools that lists products by category for people researching AI software. |
 | [AI Toolz is](https://aitoolzs.com) | 49 | ✅ Dofollow | Free | Directory for comparing AI tools used in writing, coding, design, marketing and routine automation. |
@@ -1205,6 +1209,7 @@ Top DR: **91** · Dofollow: **229**
 | [Meoai](https://www.meoai.net) | 44 | ❌ Nofollow | Free | Directory of AI tools where users can find AI products and makers can submit theirs. |
 | [That AI Collection](https://thataicollection.com) | 44 | ✅ Dofollow | Paid | Collection of AI tools organized for browsing, with listings submitted by makers. |
 | [ToolsForHumans.ai](https://toolsforhumans.ai) | 44 | ✅ Dofollow | Free | AI tools review site offering expert analysis to help readers choose tools and follow trends. |
+| [Public Prompts](https://www.publicprompts.art) | 44 | ✅ Dofollow | Paid | Paid-only AI tools directory: US$19.99 one-time plus applicable tax (refunded if declined). Paid listings have dofollow links; other links may be nofollow. |
 | [AI Agents Directory](https://aiagentsdirectory.com) | 43 | ✅ Dofollow | Freemium | Specialized directory focused on AI agents and autonomous AI tools, helping users find AI agents for automation and productivity. |
 | [AI Startups](https://aistartups.net) | 43 | ✅ Dofollow | Freemium | Directory dedicated to AI startups, showcasing emerging companies building innovative artificial intelligence products and services. |
 | [Aihustle](https://aihustle.tools) | 43 | ✅ Dofollow | Freemium | Directory that collects AI tools from across categories into a single list for browsing. |
@@ -1444,12 +1449,12 @@ Top DR: **91** · Dofollow: **229**
 | [Topappsai](https://topappsai.com) | 0 | — | — | AI tools directory that lists submitted artificial intelligence products by category. |
 | [Trueaitools](https://www.trueaitools.com) | 0 | ✅ Dofollow | Paid | Listing site for AI tools and apps, where creators can add their own products. |
 | [FalcoScan](https://falcoscan.com) | — | — | Freemium | AI market tracker and directory covering 8,000+ AI products across 30 markets; free listing, paid plans for market data. |
-| [Public Prompts](https://www.publicprompts.art) | — | ❌ Nofollow | Paid | Paid-only AI tools directory: US$19.99 one-time fee per submission (refunded if declined), no free listing option, and links are nofollow. |
+| [QuickMatch](https://quickmatch.si) | — | — | Free | AI tools directory for game development, with side-by-side comparisons of tools for 3D, art, music, voice and code. Free to list. |
 
 </details>
 
 
-### 💻 Software Directory (213)
+### 💻 Software Directory (216)
 
 Top DR: **91** · Dofollow: **118**
 
@@ -1467,7 +1472,7 @@ Top DR: **91** · Dofollow: **118**
 | [Filehippo](https://filehippo.com) | **77** | — | — | Software download site where users find and download desktop programs. |
 
 <details>
-<summary>View all 213 directories</summary>
+<summary>View all 216 directories</summary>
 
 | Directory | DR | Link Type | Pricing | Description |
 |-----------|:--:|-----------|:-------:|-------------|
@@ -1684,6 +1689,9 @@ Top DR: **91** · Dofollow: **118**
 | [Newtools](https://newtools.co) | 0 | — | — | Directory of software products where makers can submit and list their tools. |
 | [Productdir](https://productdir.com) | 0 | — | — | Curated tech tools directory focused on security, privacy, IT management and productivity, picked by an industry practitioner. |
 | [Toolscout](https://toolscout.app) | 0 | — | — | Review site comparing SaaS products, AI tools and productivity apps, with recommended picks. |
+| [PWA Directory](https://pwa.directory) | — | — | Freemium | Curated directory of installable progressive web apps; free submission, optional paid Fast-Track. |
+| [WebApps Directory](https://webapps.directory) | — | — | Freemium | Curated directory of web apps that run in the browser; free submission, optional paid Fast-Track. |
+| [Boilerplates Directory](https://boilerplates.directory) | — | — | Freemium | Compares SaaS starter kits and boilerplates by stack, pricing and features; free submission, optional paid Fast-Track. |
 
 </details>
 
@@ -2225,7 +2233,7 @@ This list gets better with every PR. Here's how to help:
 ### Adding a Directory
 
 1. Fork the repo
-2. Add your entry to `data/directories.json`
+2. Add your entry to `data/directories.json` (only that file: the tables here and the CSV are generated from it by `scripts/build_readme.py`)
 3. Open a PR
 
 ```json

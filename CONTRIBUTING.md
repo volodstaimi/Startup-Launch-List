@@ -11,6 +11,8 @@ First off, thank you for considering contributing! Every addition and correction
 3. Add your entry in the correct position (sorted by DR, highest first; no-DR entries at the end)
 4. Submit a Pull Request with a brief description
 
+Edit `data/directories.json` only. The README tables, counts and `data/directories.csv` are generated from it with `python scripts/build_readme.py`, which maintainers run when merging, so you don't need to touch them.
+
 **Required fields:**
 ```json
 {
