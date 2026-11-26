@@ -15757,5 +15757,14 @@
     "pricing": "Freemium",
     "category": "🚀 Startup Directory",
     "description": "Curated directory where founders list new startups, SaaS tools and indie products. Free listings wait at least 7 days and need a badge on the submitted site; paid plans start at $19 one-time."
+  },
+  {
+    "name": "ToolWorthy",
+    "url": "https://www.toolworthy.ai",
+    "domain_rating": null,
+    "link_type": "Nofollow",
+    "pricing": "Paid",
+    "category": "🤖 AI Directory",
+    "description": "Editorial AI tools directory with category rankings and guides. Browsing is free; vendor submission is paid only, one-time Fast Listing $49 or Verified Listing $99."
   }
 ]
